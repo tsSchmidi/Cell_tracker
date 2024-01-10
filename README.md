@@ -6,7 +6,7 @@ Input folder needs to contain a CSV file and a subfolder that contains the image
 CSV files:
 Name is assumed to be "Results_<subfolder name>".
 Columns are assumed to be labeled "" (index), "Area" (of cell), "Mean", "Min", "Max" (intensity), "X", "Y" (position), "Major" (length), "Minor" (width), "Angle", "Slice" (image #).
-These can be generated with ImageJ.
+These can be generated with ImageJ using the accompanied ImageJ script.
 
 Image series:
 Name assumed to be "<series name>-<image #>".
